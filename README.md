@@ -4,3 +4,5 @@ Primeira aula pratica de Git e GitHub na SPTech!!
 alteraçao feita no remoto (direto no GitHub) 🦎
 
 Hoje é dia de aprender Git -> Alteração feita localmente(direto na minha maquina) :)
+
+Parabéns agora você é um programador IHUUU :D 
